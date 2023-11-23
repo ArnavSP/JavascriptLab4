@@ -33,5 +33,27 @@
             "Vanilla Base"
         ],
         "image": "https://github.com/ArnavSP/JavascriptLab4/blob/main/images/strawberry-sprinkle.svg"
-    }]
+    }, {
+        "name": "Butterscotch Choco Chip",
+        "calories": 450,
+        "type": "ice-cream",
+        "ingredients": [
+            "Butterscotch",
+            "Choco Chip",
+            "Vanilla Base"
+        ],
+        "image": "https://github.com/ArnavSP/JavascriptLab4/blob/main/images/ice-cream-xtra2.svg"
+    },
+    {
+        "name": "Mint Sprinkles",
+        "calories": 500,
+        "type": "ice-cream",
+        "ingredients": [
+            "Mint",
+            "Sprinkles",
+            "Vanilla Base"
+        ],
+        "image": "https://github.com/ArnavSP/JavascriptLab4/blob/main/images/ice-cream-xtra1.svg"
+    }
+]
 }
